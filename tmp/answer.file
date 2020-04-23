@@ -1,0 +1,11 @@
+admin-email = root@localhost
+ssl-set-cnames = spacewalk2
+ssl-set-org = Spacewalk Org
+ssl-set-org-unit = spacewalk
+ssl-set-city = My City
+ssl-set-state = My State
+ssl-set-country = US
+ssl-password = spacewalk
+ssl-set-email = root@localhost
+ssl-config-sslvhost = Y
+enable-tftp=Y
